@@ -1,0 +1,64 @@
+# DSCYBERS v2.0 - AI-Powered Offensive Security Framework
+# Author: Kashyap Divyansh - Cyber Security Researcher
+
+# Core dependencies
+requests>=2.25.0
+aiohttp>=3.8.0
+asyncio-compat>=0.1.2
+
+# Security and cryptography
+cryptography>=3.4.0
+python-jose>=3.3.0
+
+# HTTP and networking
+httpx>=0.24.0
+urllib3>=1.26.0
+dnspython>=2.1.0
+python-nmap>=0.7.1
+
+# Data processing and analysis
+pyyaml>=5.4.0
+pandas>=1.3.0
+numpy>=1.21.0
+lxml>=4.6.0
+
+# Testing and validation
+pytest>=6.0
+pytest-asyncio>=0.21.0
+
+# CLI and interface
+colorama>=0.4.4
+rich>=12.0.0
+click>=8.0.0
+
+# AI and ML capabilities
+scikit-learn>=1.0.0
+nltk>=3.7
+
+# Database and storage
+sqlite3
+json5>=0.9.0
+
+# Optional advanced features
+yara-python>=4.0.0; python_version >= "3.8"
+python-whois>=0.7.0
+shodan>=1.25.0
+censys>=2.0.0
+
+# Development dependencies
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
+
+# Reporting
+jinja2>=3.0.0
+matplotlib>=3.5.0
+plotly>=5.0.0
+
+# API integrations
+shodan>=1.25.0
+
+# Development and testing
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910
